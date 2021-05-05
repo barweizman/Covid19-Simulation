@@ -1,0 +1,5 @@
+City;Ashdod;0;0;100;50;100
+#Ashdod;Beer-Sheva
+City;Beer-Sheva;50;100;100;50;12000
+#Beer-Sheva;Gevim
+Moshav;Gevim;100;200;100;50;15000
